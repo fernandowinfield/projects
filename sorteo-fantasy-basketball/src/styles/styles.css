@@ -1,0 +1,49 @@
+.customContainer {
+  text-align: center;
+  margin: 0 17%;
+  overflow: hidden;
+  color: rgb(116, 116, 116);
+}
+
+.shortHr {
+  width: 20%;
+}
+
+.customJumbotron {
+  padding: 3rem 2rem;
+}
+
+.addButton {
+  height: 56px;
+  width: 56px;
+}
+
+.borderlessButton {
+  border: none;
+}
+
+.instructionsText {
+  color: black;
+  margin-bottom: 30px;
+}
+
+.instructionsHr {
+  margin-bottom: 3em;
+}
+
+.listGroupCustom {
+  margin: 3em 18%;
+}
+
+.backdropText {
+  margin-left: 1em;
+}
+
+.lotterySpinner {
+  margin-left: 1em;
+}
+
+.blackFont {
+  color: black;
+  font-weight: bold;
+}
